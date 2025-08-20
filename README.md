@@ -24,7 +24,7 @@ Some of the technologies I use:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Check out my [personal website](zkornbluth.github.io). You can also reach me on [Linkedin](https://www.linkedin.com/in/zachary-kornbluth/) or send me an [email](mailto:zkornbluth2007@gmail.com).
+Check out my [personal website](https://zkornbluth.github.io). You can also reach me on [Linkedin](https://www.linkedin.com/in/zachary-kornbluth/) or send me an [email](mailto:zkornbluth2007@gmail.com).
 
 
 <!--
