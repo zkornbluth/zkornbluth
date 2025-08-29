@@ -2,9 +2,7 @@
 
 I'm Zachary, a software engineer with experience across the stack.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zkornbluth&mode=weekly)](https://git.io/streak-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkornbluth&layout=compact)](https://github.com/zkornbluth/github-readme-stats)
--->
+[![GitHub Streak](https://github-readme-streak-stats-gamma-pearl.vercel.app?user=zkornbluth&mode=weekly)](https://git.io/streak-stats)
 
 Check out what I've worked on here: 
 
